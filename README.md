@@ -1,11 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adegilson Gomes da Silva
+ Adegilson Gomes da Silva
 ================================================================================================================================================
 
 Web Developer
 -------------
 
 Estudante de Sistemas de Informação 
-Desnvolvedor Full-Stack
+Desenvolvedor Full-Stack
 
 * 🌍  I'm based in Rio Branco-Ac,Brazil
 * ✉️  You can contact me at [adegilsongs@gmail.com](mailto:adegilsongs@gmail.com)
