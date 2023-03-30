@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-Estudante de Sistemas de Imformação Desnvolvedor Full-Stack
+Estudante de Sistemas de Informação 
+Desnvolvedor Full-Stack
 
 * 🌍  I'm based in Rio Branco-Ac,Brazil
 * ✉️  You can contact me at [adegilsongs@gmail.com](mailto:adegilsongs@gmail.com)
