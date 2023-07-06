@@ -8,7 +8,7 @@ Estudante de Sistemas de Informação
 Desenvolvedor Full-Stack
 
 * 🌍  I'm based in Rio Branco-Ac,Brazil
-* ✉️  You can contact me at [adegilsongs@gmail.com](mailto:adegilsongs@gmail.com)
+* ✉️  You can contact me at [adegilsongs@gmail.com](mailto:adegilsongs2013@gmail.com)
 
 ### Skills
 
